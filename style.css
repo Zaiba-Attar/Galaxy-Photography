@@ -1,0 +1,45 @@
+*{
+    background-color: lightgray;
+
+}
+h1{
+    text-align: center;
+}
+
+img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+    width: 100%;
+   /* background-image: url('https://images-na.ssl-images-amazon.com/images/I/A1PQFToBqDL.jpg');*/
+}
+header.text{
+    color: white;
+    align-content: center;
+}
+.section{
+    text-align: center;
+
+}
+.section p{
+    margin: 20px 90px 0 90px;
+}
+.section img{
+    border-radius: 30%;
+    width: 100%;
+    height: 650px;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+nav a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.text h1{
+    text-align: center;
+    border: 2px solid darkblue;
+}
